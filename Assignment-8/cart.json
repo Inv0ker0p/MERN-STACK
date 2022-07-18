@@ -1,0 +1,26 @@
+[
+    {
+        "p_id":111,
+        "p_name":"shirt",
+        "p_quantity":5,
+        "p_price":200
+    },
+    {
+        "p_id":222,
+        "p_name":"jeans",
+        "p_quantity":10,
+        "p_price":500
+    },
+    {
+        "p_id":333,
+        "p_name":"T-shirt",
+        "p_quantity":10,
+        "p_price":400
+    },
+    {
+        "p_id":444,
+        "p_name":"shoe",
+        "p_quantity":2,
+        "p_price":600
+    }
+]
